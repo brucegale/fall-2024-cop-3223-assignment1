@@ -1,6 +1,6 @@
 //**
 // fractures.c
-// Author: Bruce Gale
+// Author: Bruce Gale + NID: br852209
 // Date: 9/8/24
 // Class: COP 3223, Juan Parra
 // Purpose: This program prints a specific message to the
